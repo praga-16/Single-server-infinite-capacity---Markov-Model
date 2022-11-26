@@ -50,6 +50,8 @@ print("---------------------------------------------------------------")
 ```
 
 
-## Output  and result
+## Output
 ![imAGE](prob3a.jpeg)
 ![imAGE](prob3b.jpeg)
+## result
+thus the program executed sucessfullyand got the output.
