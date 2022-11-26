@@ -51,4 +51,5 @@ print("---------------------------------------------------------------")
 
 
 ## Output  and result
-
+![imAGE](prob3a.png)
+![imAGE](prob3b.png)
